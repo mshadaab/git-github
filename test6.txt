@@ -1,5 +1,7 @@
 # this is a demo script
 
+./bin/bash
+
 echo "This is a demo shell script"
 
 echo "+++++++++"
