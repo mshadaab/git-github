@@ -1,1 +1,5 @@
-welcome to git
+# this is a demo script
+
+echo "This is a demo shell script"
+
+echo "+++++++++"
